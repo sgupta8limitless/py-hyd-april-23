@@ -1,0 +1,12 @@
+[
+    {
+        "name":"Thor",
+        "weapon":"Mjolnir",
+        "planet":"Asgard"
+    },
+    {
+        "name":"Black Panther",
+        "weapon":"Vibranium Suit",
+        "planet":"Earth"
+    }
+]
